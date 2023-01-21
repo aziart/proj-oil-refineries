@@ -1,0 +1,4 @@
+AI	SellPrice	ProdPrice	TransPrice
+80	110	1,5	1,5
+92	153	2,5	2
+95	175	3,5	2,2
