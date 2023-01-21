@@ -8,7 +8,8 @@ The total profit consists of the proceeds from the sale of gasoline, the cost of
 
 **Additional parameters:**  
 • weekly expenses for the station: 100,000 KZT.  
-Input data:  
+
+**Input data:**  
 • [**NPZ.txt**](https://github.com/aziart/oil-refineries-proj/blob/main/data/NPZ.txt) : coordinates (km) (x, y) and weekly gasoline production (Supply) of each brand (AI);  
 • [**STATIONS**](https://github.com/aziart/oil-refineries-proj/blob/main/data/STATIONS.txt): coordinates (km) (x, y) and weekly gasoline demand (Demand) of each brand (AI);  
 • * [**AI_COSTS**](https://github.com/aziart/oil-refineries-proj/blob/main/data/AI_COSTS.txt): the price of transportation in tc/l/km (Trans Price), the cost of producing one liter of gasoline in tc/l (Prod Price), the sale price of gasoline in tg/l (SellPrice)  
