@@ -13,13 +13,13 @@ Input data:
 • [**STATIONS**](https://github.com/aziart/oil-refineries-proj/blob/main/data/STATIONS.txt): coordinates (km) (x, y) and weekly gasoline demand (Demand) of each brand (AI).
 • * [**AI_COSTS**](https://github.com/aziart/oil-refineries-proj/blob/main/data/AI_COSTS.txt): the price of transportation in tc/l/km (Trans Price), the cost of producing one liter of gasoline in tc/l (Prod Price), the sale price of gasoline in tg/l (SellPrice)
 
-**Output data:**
-• total profit;
-• the amount of gasoline for each pair of refinery–station;
-• list of closed stations;
-• unallocated gasoline for each plant;
-• unmet demand for each station;
-• profitability for each open station (what is the net profit of each station in the end?).
+**Output data:**  
+• total profit;  
+• the amount of gasoline for each pair of refinery–station;  
+• list of closed stations;  
+• unallocated gasoline for each plant;  
+• unmet demand for each station;  
+• profitability for each open station (what is the net profit of each station in the end?).  
 
 **SOLUTION:**
 [**Solution.ipynb**](https://github.com/aziart/oil-refineries-proj/blob/main/Solution.ipynb)
