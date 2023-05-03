@@ -1,4 +1,4 @@
-# oil-refineries-proj
+# proj-oil-refineries
 
 **Oil refineries optimization**
 
